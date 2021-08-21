@@ -45,9 +45,9 @@
 ## ⭐GitHub stats
 <p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=tokyonight)](https://github.com/jarbasjh1413/)
+[![card](https://github-readme-stats.vercel.app/api?username=jarbasjh1413&theme=tokyonight)](https://github.com/jarbasjh1413/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=tokyonight)](https://github.com/jarbasjh1413/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=jarbasjh1413&hide=html&layout=compact&theme=tokyonight)](https://github.com/jarbasjh1413/)
 
 </p>
 
